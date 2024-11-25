@@ -30786,7 +30786,7 @@
                                 directContent: !0,
                                 onClick: function() {
                                     var e;
-                                    null === (e = window.open("https://x.com/DreamAicoin", "_blank")) || void 0 === e || e.focus()
+                                    null === (e = window.open("https://x.com/", "_blank")) || void 0 === e || e.focus()
                                 },
                                 children: (0, zp.jsx)("svg", {
                                     width: "34",
@@ -30803,7 +30803,7 @@
                                 directContent: !0,
                                 onClick: function() {
                                     var e;
-                                    null === (e = window.open("https://t.me/DreamAIOnErc", "_blank")) || void 0 === e || e.focus()
+                                    null === (e = window.open("https://t.me/CognitionAI", "_blank")) || void 0 === e || e.focus()
                                 },
                                 children: (0, zp.jsx)("svg", {
                                     width: "34",
@@ -30820,7 +30820,7 @@
                                 directContent: !0,
                                 onClick: function() {
                                     var e;
-                                    null === (e = window.open("https://x.com/DreamAicoin", "_blank")) || void 0 === e || e.focus()
+                                    null === (e = window.open("https://x.com/", "_blank")) || void 0 === e || e.focus()
                                 },
                                 children: (0, zp.jsx)("svg", {
                                     width: "34",
