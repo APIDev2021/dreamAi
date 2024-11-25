@@ -31010,7 +31010,7 @@
                                 })]
                             }), (0, zp.jsx)("h1", {
                                 className:  ( "titleheadban")  ,
-                                children: "Cognition Ai".split("").map((function(e, t) {
+                                children: "Cognition".split("").map((function(e, t) {
                                     return (0, zp.jsx)("span", {
                                         children: e
                                     }, t)
