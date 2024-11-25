@@ -27166,7 +27166,7 @@
                                 className: "title",
                                 children: "about"
                             }), (0, zp.jsx)("p", {
-                                children: "Dream AI is a special approach to the possession of art, the last hope of mankind. Create works using a unique android, upgrade your skills and discover new creative possibilities."
+                                children: "Cognition Ai is a special approach to the possession of art, the last hope of mankind. Create works using a unique android, upgrade your skills and discover new creative possibilities."
                             }), (0, zp.jsx)("div", {
                                 className: "button-wrap",
                                 children: (0, zp.jsx)(Yp, {
@@ -30854,7 +30854,7 @@
                         children: [(0, zp.jsxs)("div", {
                             className: "left",
                             children: [(0, zp.jsx)("span", {
-                                children: "\xa9 Dream AI"
+                                children: "\xa9 Cognition Ai"
                             }), (0, zp.jsx)("a", {
                                 href: "#",
                                 onClick: function() {
@@ -31010,7 +31010,7 @@
                                 })]
                             }), (0, zp.jsx)("h1", {
                                 className:  ( "titleheadban")  ,
-                                children: "Dream AI".split("").map((function(e, t) {
+                                children: "Cognition Ai".split("").map((function(e, t) {
                                     return (0, zp.jsx)("span", {
                                         children: e
                                     }, t)
@@ -31541,19 +31541,19 @@
                             children: [f(0, .5) && (0, zp.jsx)("div", {
                                 className: "text centered",
                                 style: x(!0),
-                                children: "Dream AI is a firm foundation upon which the whole ecosystem will be built. Quality and mystery combined with technology and experience are at its core. For now, Dream AI is an artist that can create masterpieces both individually and in collaboration with other artists."
+                                children: "Cognition Ai is a firm foundation upon which the whole ecosystem will be built. Quality and mystery combined with technology and experience are at its core. For now, Cognition Ai is an artist that can create masterpieces both individually and in collaboration with other artists."
                             }), f(.5, 1.5) && (0, zp.jsx)("div", {
                                 className: "text",
                                 style: x(),
-                                children: "The Dream AI team will curate Dream AI as an independent artist spreading its art. Android owners can interact with the Dream AI to create and manage their own art collections on the collector's page."
+                                children: "The Cognition Ai team will curate Cognition Ai as an independent artist spreading its art. Android owners can interact with the Cognition Ai to create and manage their own art collections on the collector's page."
                             }), f(1.5, 2.5) && (0, zp.jsx)("div", {
                                 className: "text",
                                 style: x(),
-                                children: "Dream AI aims to shape and define AI art, creating a dynamic and interactive space for artists and collectors. Dream AI will focus on collaborations, partnering with established names and galleries, bringing new genres together."
+                                children: "Cognition Ai aims to shape and define AI art, creating a dynamic and interactive space for artists and collectors. Cognition Ai will focus on collaborations, partnering with established names and galleries, bringing new genres together."
                             }), f(2.5, 3.5) && (0, zp.jsx)("div", {
                                 className: "text",
                                 style: x(),
-                                children: "The Dream AI team aims to create innovative products. Androids will be the main pass, but Paintings and the choices you\u2019ve made will be the key to getting rewards."
+                                children: "The Cognition Ai team aims to create innovative products. Androids will be the main pass, but Paintings and the choices you\u2019ve made will be the key to getting rewards."
                             })]
                         })]
                     })]
@@ -31837,7 +31837,7 @@
                                 active: a
                             }), !1, (0, zp.jsx)("div", {
                                 className: "link",
-                                children: "Dream AI"
+                                children: "Cognition Ai"
                             })]
                         })]
                     })]
@@ -34460,22 +34460,22 @@
             var cx = [{
                 title: "General",
                 entries: [{
-                    title: "What is Dream AI",
-                    content: ["Dream AI is a decentralized autonomous artist that combines human art and the art of Neural Networks.", "Every holder will act as a node in a global net of the art of the New Era.", "Despite its artistic and subjective value, on the other side, Dream AI is a complete product with its utility value, providing holders with experience, immersion, and a rewarding system."]
+                    title: "What is Cognition Ai",
+                    content: ["Cognition Ai is a decentralized autonomous artist that combines human art and the art of Neural Networks.", "Every holder will act as a node in a global net of the art of the New Era.", "Despite its artistic and subjective value, on the other side, Cognition Ai is a complete product with its utility value, providing holders with experience, immersion, and a rewarding system."]
                 }, {
-                    title: "How does the SupremePunks collection relate to Dream AI",
+                    title: "How does the SupremePunks collection relate to Cognition Ai",
                     content: ["A long time ago, we began our journey with the art-based project SupremePunks. As a way of thanking all the holders who supported us, we took a ~snapshot~ to reward all owners with a free airdrop based on the quantity of SupremePunks they owned.", "We strongly believe that the aim of every NFT project should be not only to meet stated goals but also to exceed expectations."]
                 }, {
-                    title: "how to start using Dream AI",
+                    title: "how to start using Cognition Ai",
                     content: [
-                        ["1. Log in to your account at ~Dream AI~ using ~WalletConnect~ or ~Metamask~", "2. Purchase at least ~1~ Box", "3. Reveal to receive 1 out of 5 Android types", "4. Claim ~1~ Module or Purchase more", "5. Upgrade your Android with Modules", "6. Order paintings"], "If you are looking only for a collector\u2019s experience of Dream AI, then you can purchase paintings on a marketplace, and all of them will also appear in your personal account."
+                        ["1. Log in to your account at ~Cognition Ai~ using ~WalletConnect~ or ~Metamask~", "2. Purchase at least ~1~ Box", "3. Reveal to receive 1 out of 5 Android types", "4. Claim ~1~ Module or Purchase more", "5. Upgrade your Android with Modules", "6. Order paintings"], "If you are looking only for a collector\u2019s experience of Cognition Ai, then you can purchase paintings on a marketplace, and all of them will also appear in your personal account."
                     ]
                 }, {
                     title: "when is minting",
                     content: "Final minting date is TBA"
                 }, {
                     title: "what blockchain is used",
-                    content: "Dream AI is working on Ethereum"
+                    content: "Cognition Ai is working on Ethereum"
                 }, {
                     title: "when will all androids and modules be released?",
                     content: "All Androids and Modules will be released gradually, with each release announced on our socials and you will be able to find them on the website."
@@ -34487,7 +34487,7 @@
                     content: ["Total supply is TBA. There will be a total of 5 types of Androids manufactured by 5 companies. When you get the Box - you can then reveal it and choose any type you want:", ["1. Sarah by DAA", "2. Nicole by MISU", "3. Anna by ELSI", "4. Roman by FARAON", "5. Kira by KERMESSE"]]
                 }, {
                     title: "Why each type of Android is not limited?",
-                    content: ["We want to give holders the opportunity to influence the world of Dream AI and define its future. You will decide how many Androids of each type will be in Dream AIbased on your preferences. This will determine the final visuals of paintings as well.", "We aim to implement decision-making and gamification mechanics into every element of the project to provide you with immersion. This is one of our core principles that applies to all significant parts of Dream AI."]
+                    content: ["We want to give holders the opportunity to influence the world of Cognition Ai and define its future. You will decide how many Androids of each type will be in Cognition Ai based on your preferences. This will determine the final visuals of paintings as well.", "We aim to implement decision-making and gamification mechanics into every element of the project to provide you with immersion. This is one of our core principles that applies to all significant parts of Cognition Ai."]
                 }, {
                     title: "Can androids paint without modules?",
                     content: ["Androids CANNOT draw without Modules.", "BUT: in Modules presale you can get ~1 free~ Module for every Android"]
@@ -34502,10 +34502,10 @@
                     content: ["You will be able to reveal your Android at any time you wish. Functions like upgrading and ordering paintings will be available only after the reveal.", "BUT: you CANNOT claim free Modules or buy any in the presale with unrevealed Android."]
                 }, {
                     title: "Will Androids be used in the future?",
-                    content: "Yes, we have very ambitious expansion plans for our company. Androids will be a key for entering the Dream AI ecosystem."
+                    content: "Yes, we have very ambitious expansion plans for our company. Androids will be a key for entering the Cognition Ai ecosystem."
                 }, {
                     title: "Will Androids be used in future?",
-                    content: "Yes, we have very ambitious expansion plans for our company. Androids will be a key for entering in Dream AI ecosystem."
+                    content: "Yes, we have very ambitious expansion plans for our company. Androids will be a key for entering in Cognition Ai ecosystem."
                 }]
             }, {
                 title: "Modules",
@@ -34520,13 +34520,13 @@
                     content: ["No, a reset is not possible. Once a Module is applied to an Android, the Module's token is burned, permanently changing the Android's metadata. The Android will never be downgraded and will not become a worse artist."]
                 }, {
                     title: "What if an android is upgraded to maximum?",
-                    content: "If your Android is maxed out, you will be able to claim the special and unique rewards in the next Dream AIstages and get priorities in Adanede ecosystem."
+                    content: "If your Android is maxed out, you will be able to claim the special and unique rewards in the next Cognition Ai stages and get priorities in Adanede ecosystem."
                 }]
             }, {
                 title: "Paintings",
                 entries: [{
                     title: "how are paintings created?",
-                    content: ["All paintings are created by our AI automated system. The drawing process begins as soon as a user orders a painting from an Android. There are several separate neural networks used in the combination. Upon receiving a request from a specific Android, Dream AIadjusts the system parameters accordingly and selects an input \u2013 an initial pattern hand-drawn by an artist. Afterward, the ~Automatic generation of prompts~ creates a unique title (prompt) for the painting based on a large amount of data we\u2019ve been collecting for over a year.The title and the input are processed by ~Control Net~ and ~Stable Diffusion~ neural networks. The artwork is then upscaled to a higher resolution. The entire painting process is fully automated and doesn't require manual intervention at any stage."]
+                    content: ["All paintings are created by our AI automated system. The drawing process begins as soon as a user orders a painting from an Android. There are several separate neural networks used in the combination. Upon receiving a request from a specific Android, Cognition Ai adjusts the system parameters accordingly and selects an input \u2013 an initial pattern hand-drawn by an artist. Afterward, the ~Automatic generation of prompts~ creates a unique title (prompt) for the painting based on a large amount of data we\u2019ve been collecting for over a year.The title and the input are processed by ~Control Net~ and ~Stable Diffusion~ neural networks. The artwork is then upscaled to a higher resolution. The entire painting process is fully automated and doesn't require manual intervention at any stage."]
                 }, {
                     title: "will the same androids with the same modules make the same painting?",
                     content: "No, even though it might seem like it could happen, there is no possibility of that occurring. Firstly, Androids never produce paintings with the same plot. Secondly, even the same module can affect a painting in different ways. Finally, each Android model from the same company has its unique gene that varies its paintings."
@@ -34538,7 +34538,7 @@
                     content: "We have no limit on the total number of paintings. Instead, we use a time-increasing model, where each next painting takes longer to be drawn. Thus, at some point, the duration required to create a painting will not influence its total quantity."
                 }, {
                     title: "how Will i be able to use paintings afterwards",
-                    content: ["First, we will spread Dream AIart extensively, partnering with digital platforms where holders can showcase their artworks.", "Furthermore, paintings are considered as currency within Dream AI. There will be special rewards available in exchange for paintings, depending on the stage. Stages are categorized into three groups based on the Android's upgrade level at the time of the painting's creation:", ["Alpha: 0 - 3 modules", "Beta: 4 - 7 modules", "Gamma: 8 modules and more"], "There is no difference for the stage type if 4 diffferent or the same Modules were used."]
+                    content: ["First, we will spread Cognition Ai art extensively, partnering with digital platforms where holders can showcase their artworks.", "Furthermore, paintings are considered as currency within Cognition Ai. There will be special rewards available in exchange for paintings, depending on the stage. Stages are categorized into three groups based on the Android's upgrade level at the time of the painting's creation:", ["Alpha: 0 - 3 modules", "Beta: 4 - 7 modules", "Gamma: 8 modules and more"], "There is no difference for the stage type if 4 diffferent or the same Modules were used."]
                 }]
             }];
 
@@ -35033,7 +35033,7 @@
                             }), (0, zp.jsx)("p", {
                                 children: "The rules of the universe are clear, but the result is always unpredictable..."
                             }), (0, zp.jsx)("p", {
-                                children: "All the answers are in Dream AI."
+                                children: "All the answers are in Cognition Ai."
                             })]
                         })]
                     })
@@ -35452,7 +35452,7 @@
                                 className: "title",
                                 children: "PRIVACY POLICY"
                             }), (0, zp.jsx)("p", {
-                                children: 'This Privacy Policy explains how your personal information is collected, used and shared when using the services of the Website located at: Dream AI. "You" and "Your" in this Policy means you as a User as construed in our Terms of Service.'
+                                children: 'This Privacy Policy explains how your personal information is collected, used and shared when using the services of the Website located at: Cognition Ai. "You" and "Your" in this Policy means you as a User as construed in our Terms of Service.'
                             }), (0, zp.jsx)("h2", {
                                 className: "title-small",
                                 children: "INFORMATION WE COLLECT"
@@ -35575,7 +35575,7 @@
                                 className: "title",
                                 children: "TERMS OF SERVICE"
                             }), (0, zp.jsx)("p", {
-                                children: "These Terms of Service (\xabTerms\xbb) apply to users of the Website (\xabUsers\xbb) located at Dream AI (\xabWebsite\xbb). The Website, smart contracts, services and tools located on the Website (\xabServices\xbb) are managed by the owner of the Website"
+                                children: "These Terms of Service (\xabTerms\xbb) apply to users of the Website (\xabUsers\xbb) located at Cognition Ai (\xabWebsite\xbb). The Website, smart contracts, services and tools located on the Website (\xabServices\xbb) are managed by the owner of the Website"
                             }), (0, zp.jsx)("p", {
                                 children: "\xabYou\xbb and \xabYour\xbb in these Terms means you as a User. If you are using the Service on behalf of a legal entity or individual entrepreneur, you warrant that you are a legal representative with all necessary powers, and you, on behalf of the company or individual entrepreneur, agree to these Terms in full."
                             }), (0, zp.jsx)("p", {
@@ -35736,7 +35736,7 @@
                                 className: "title-small",
                                 children: " LOCATION OF OUR PRIVACY POLICY"
                             }), (0, zp.jsx)("p", {
-                                children: "Our privacy policy, which contains information about how we process the information we receive from you, is located on the Website at Dream AI. Please read this Privacy Policy before using the Website."
+                                children: "Our privacy policy, which contains information about how we process the information we receive from you, is located on the Website at Cognition Ai. Please read this Privacy Policy before using the Website."
                             })]
                         })
                     })
@@ -35777,9 +35777,9 @@
                             }), (0, zp.jsx)("p", {
                                 children: "In 2044 art will be decentralized and no one will consider the word art as something unavailable. A small number of people will be able to own the artists and determine what all art will look like together with each of their actions. The rest will have the opportunity to buy these works in unlimited quantities and become owners of world art."
                             }), (0, zp.jsx)("p", {
-                                children: "These artists will be a new kind of android, the Automated Creative Intellectual Androids (A.C.I.A.). They are developed and created by five major companies fighting for market share in the Dream AIuniverse."
+                                children: "These artists will be a new kind of android, the Automated Creative Intellectual Androids (A.C.I.A.). They are developed and created by five major companies fighting for market share in the Cognition Ai universe."
                             }), (0, zp.jsx)("p", {
-                                children: "Today Dream AI is art. Tomorrow, art is Dream AI."
+                                children: "Today Cognition Ai is art. Tomorrow, art is Cognition Ai."
                             })]
                         })
                     })
@@ -35901,7 +35901,7 @@
                                 }), (0, zp.jsx)("p", {
                                     children: "As the inputs become more minimalistic, the rarity of the resulting paintings increases due to the extended processing time required by the neural network. This additional time allows the A.C.I.A. to craft each piece meticulously, transforming the limited input details into something truly unique and captivating."
                                 }), (0, zp.jsx)("p", {
-                                    children: "The Compressors Module for Dream AIoffers a different approach to artistic expression, emphasizing the potential for beauty and rarity in simplicity."
+                                    children: "The Compressors Module for Cognition Ai offers a different approach to artistic expression, emphasizing the potential for beauty and rarity in simplicity."
                                 }), (0, zp.jsx)("p", {
                                     style: {
                                         opacity: .5
@@ -36702,7 +36702,7 @@
                     o = wt(Mn);
                 return (0, e.useEffect)((function() {
                     var e = setInterval((function() {
-                        var e = "Dream AI";
+                        var e = "Cognition AI";
                         if (r < i || 0 === i || a) e = "Loading...";
                         else if (-1 !== t && n) e = "".concat(Iy[t].name, " - ").concat(e);
                         else if (o !== an.None) {
